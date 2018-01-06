@@ -1,2 +1,2 @@
-# FirstApp
+# sampleapp
 Greatness of telugu language
